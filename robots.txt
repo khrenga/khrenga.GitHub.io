@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://khrenga.github.io/sitemap.xml
